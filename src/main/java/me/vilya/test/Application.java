@@ -1,4 +1,4 @@
-package me.vilya;
+package me.vilya.test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

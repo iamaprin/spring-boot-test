@@ -1,4 +1,4 @@
-package me.vilya.a;
+package me.vilya.test.a;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
