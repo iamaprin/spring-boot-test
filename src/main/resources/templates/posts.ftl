@@ -9,8 +9,8 @@
         <h3 class="blog-post-title">
             <a href="#">${title}</a>
         </h3>
-        <p class="blog-post-meta">${created}"</p>
-        <p class="blog-post-content">${content}"</p>
+        <p class="blog-post-meta">${created?datetime}</p>
+        <p class="blog-post-content">${content}</p>
 </div>
 </body>
 </html>
